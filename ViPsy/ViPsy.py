@@ -10,7 +10,7 @@ import DeceptionDetection
 import RequestSend
 import Promote
 
-class MIOTT:
+class ViPsy:
     def __init__(_self, Name):
         print("This Bot is Working for Brand Name ",Name)
         print("Initializing...")
