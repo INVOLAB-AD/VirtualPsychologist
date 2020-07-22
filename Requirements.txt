@@ -1,0 +1,4 @@
+instapy
+nltk
+facebook-sdk
+scikit-learn
